@@ -1,0 +1,20 @@
+{
+    "Iden_embarazoMultiple": "bool",
+    "Iden_Sede": "object",
+    "edadmatcat": "object",
+    "educmadresimplificada": "object",
+    "educpadresimplificada": "object",
+    "CP_TallaMadre": "object",
+    "CSP_DistanciaVivienda": "object",
+    "CSP_EscolaridadMadre": "object",
+    "CSP_EscolaridadPadre": "object",
+    "CSP_IngresoMensual": "object",
+    "CSP_Menores5vivenMadre": "object",
+    "ninosmenosde5anos": "bool",
+    "CSP_numPersVivenIngMen": "object",
+    "CSP_NutricionFam": "object",
+    "CSP_SituacionLaboralMadre": "object",
+    "CSP_SituacionLaboralPadre": "object",
+    "CSP_SituaPareja": "object",
+    "AnioParto": "int"
+}
